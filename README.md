@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kauã Simplício
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML, CSS, JS, NODE, REACT and more.
+- 📫 How to reach me: www.linkedin.com/in/kauã-santos-0220b51b4 (Linkedin)
+- ⚡ Fun fact: i love to play videogames and code.
